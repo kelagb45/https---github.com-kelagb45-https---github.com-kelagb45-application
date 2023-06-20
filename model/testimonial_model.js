@@ -9,4 +9,4 @@ const testimonialModel = new mongoose.model('testimonials', mongoose.Schema({
 
 module.exports = {
     testimonialModel
-}
+} 
